@@ -19,7 +19,7 @@
 ## License
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
-  &copy; 2024-2025 <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/esotericenderman">Esoteric Enderman</a>
+  &copy; 2024-2025 <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://enderman.dev">Esoteric Enderman</a>
 
   <a property="dct:title" rel="cc:attributionURL" href="https://github.com/esotericenderman/block-warriors-world">Block Warriors World</a> is licensed under <a href="https://github.com/esotericenderman/block-warriors-world/blob/main/LICENSE" target="_blank" rel="license noopener noreferrer" property="cc:license" style="display: inline-block">CC BY-SA 4.0</a>.
 
